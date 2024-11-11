@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/lib/python3.8/site-packages/pip/_internal/models" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/lib/python3.8/site-packages/torchvision/models" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/lib/python3.8/site-packages/ultralytics/cfg/models" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/lib/python3.8/site-packages/ultralytics/models" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

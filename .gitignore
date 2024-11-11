@@ -1,0 +1,38 @@
+# Pythonning umumiy ignor qilinadigan fayllari
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual muhitlar
+env/
+venv/
+ENV/
+*.env
+
+# IDE va editorlar tomonidan yaratilgan fayllar
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS fayllari
+.DS_Store
+
+# Streamlit kesh va fayllari
+.streamlit/
+
+# Matplotlib kesh fayllari
+.matplotlib/
+
+# Ultralytics YOLO log va kesh
+runs/
+models/
+results/
+weights/
+
+# Har qanday maxsus fayllar yoki vaqtinchalik fayllar
+*.tmp
+*.temp
